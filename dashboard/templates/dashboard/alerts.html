@@ -1,0 +1,17 @@
+
+{% extends 'dashboard/layout.html' %}
+{% block title %}Журнал инцидентов{% endblock %}
+{% block crumb %}<li class="breadcrumb-item active">Инциденты</li>{% endblock %}
+{% block content %}
+<h2>Последние инциденты</h2>
+<table class="table table-striped">
+<thead><tr><th>Время</th><th>Уровень</th><th>Описание</th></tr></thead>
+<tbody>
+{% for a in alerts %}
+<tr><td>{{ a.timestamp|date:"d.m.Y H:i" }}</td><td>{{ a.level }}</td><td>{{ a.message }}</td></tr>
+{% empty %}
+<tr><td colspan="3">Нет инцидентов</td></tr>
+{% endfor %}
+</tbody>
+</table>
+{% endblock %}

@@ -1,0 +1,26 @@
+
+{% extends 'dashboard/layout.html' %}
+{% load static %}
+{% block title %}KPI панель{% endblock %}
+{% block crumb %}
+<li class="breadcrumb-item active">KPI</li>
+{% endblock %}
+{% block content %}
+<h2>Ключевые производственные показатели</h2>
+<canvas id="kpiChart" height="120"></canvas>
+<script>
+  const series = {{ series_json|safe }};
+  const labels = Object.values(series)[0].map(p => new Date(p[0]).toLocaleDateString());
+  const datasets = Object.entries(series).map(([metric, points]) => ({
+      label: metric,
+      data: points.map(p => p[1]),
+      fill: false,
+      tension: 0.1
+  }));
+  new Chart(document.getElementById('kpiChart'), {
+    type: 'line',
+    data: { labels: labels, datasets: datasets },
+    options: { responsive: true, scales: { x: { display: true }, y: { beginAtZero: true } } }
+  });
+</script>
+{% endblock %}

@@ -1,0 +1,1086 @@
+[
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 1,
+    "fields": {
+      "date": "2025-06-08",
+      "shift": "A",
+      "planned": 57,
+      "completed": 86
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 2,
+    "fields": {
+      "date": "2025-06-08",
+      "shift": "B",
+      "planned": 79,
+      "completed": 44
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 3,
+    "fields": {
+      "date": "2025-06-08",
+      "shift": "C",
+      "planned": 69,
+      "completed": 58
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 4,
+    "fields": {
+      "date": "2025-06-07",
+      "shift": "A",
+      "planned": 66,
+      "completed": 63
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 5,
+    "fields": {
+      "date": "2025-06-07",
+      "shift": "B",
+      "planned": 92,
+      "completed": 47
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 6,
+    "fields": {
+      "date": "2025-06-07",
+      "shift": "C",
+      "planned": 59,
+      "completed": 60
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 7,
+    "fields": {
+      "date": "2025-06-06",
+      "shift": "A",
+      "planned": 60,
+      "completed": 73
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 8,
+    "fields": {
+      "date": "2025-06-06",
+      "shift": "B",
+      "planned": 88,
+      "completed": 59
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 9,
+    "fields": {
+      "date": "2025-06-06",
+      "shift": "C",
+      "planned": 69,
+      "completed": 49
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 10,
+    "fields": {
+      "date": "2025-06-05",
+      "shift": "A",
+      "planned": 89,
+      "completed": 65
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 11,
+    "fields": {
+      "date": "2025-06-05",
+      "shift": "B",
+      "planned": 60,
+      "completed": 95
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 12,
+    "fields": {
+      "date": "2025-06-05",
+      "shift": "C",
+      "planned": 72,
+      "completed": 57
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 13,
+    "fields": {
+      "date": "2025-06-04",
+      "shift": "A",
+      "planned": 55,
+      "completed": 84
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 14,
+    "fields": {
+      "date": "2025-06-04",
+      "shift": "B",
+      "planned": 67,
+      "completed": 69
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 15,
+    "fields": {
+      "date": "2025-06-04",
+      "shift": "C",
+      "planned": 99,
+      "completed": 80
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 16,
+    "fields": {
+      "date": "2025-06-03",
+      "shift": "A",
+      "planned": 52,
+      "completed": 60
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 17,
+    "fields": {
+      "date": "2025-06-03",
+      "shift": "B",
+      "planned": 63,
+      "completed": 90
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 18,
+    "fields": {
+      "date": "2025-06-03",
+      "shift": "C",
+      "planned": 74,
+      "completed": 94
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 19,
+    "fields": {
+      "date": "2025-06-02",
+      "shift": "A",
+      "planned": 90,
+      "completed": 75
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 20,
+    "fields": {
+      "date": "2025-06-02",
+      "shift": "B",
+      "planned": 91,
+      "completed": 65
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 21,
+    "fields": {
+      "date": "2025-06-02",
+      "shift": "C",
+      "planned": 77,
+      "completed": 84
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 22,
+    "fields": {
+      "date": "2025-06-01",
+      "shift": "A",
+      "planned": 63,
+      "completed": 82
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 23,
+    "fields": {
+      "date": "2025-06-01",
+      "shift": "B",
+      "planned": 73,
+      "completed": 73
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 24,
+    "fields": {
+      "date": "2025-06-01",
+      "shift": "C",
+      "planned": 68,
+      "completed": 77
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 25,
+    "fields": {
+      "date": "2025-05-31",
+      "shift": "A",
+      "planned": 68,
+      "completed": 74
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 26,
+    "fields": {
+      "date": "2025-05-31",
+      "shift": "B",
+      "planned": 89,
+      "completed": 88
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 27,
+    "fields": {
+      "date": "2025-05-31",
+      "shift": "C",
+      "planned": 90,
+      "completed": 97
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 28,
+    "fields": {
+      "date": "2025-05-30",
+      "shift": "A",
+      "planned": 52,
+      "completed": 47
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 29,
+    "fields": {
+      "date": "2025-05-30",
+      "shift": "B",
+      "planned": 87,
+      "completed": 44
+    }
+  },
+  {
+    "model": "dashboard.shiftschedule",
+    "pk": 30,
+    "fields": {
+      "date": "2025-05-30",
+      "shift": "C",
+      "planned": 54,
+      "completed": 99
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 1,
+    "fields": {
+      "timestamp": "2025-06-08T12:52:18.551198",
+      "level": "warning",
+      "message": "Demo alert #1"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 2,
+    "fields": {
+      "timestamp": "2025-06-08T11:52:18.551211",
+      "level": "warning",
+      "message": "Demo alert #2"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 3,
+    "fields": {
+      "timestamp": "2025-06-08T10:52:18.551216",
+      "level": "warning",
+      "message": "Demo alert #3"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 4,
+    "fields": {
+      "timestamp": "2025-06-08T09:52:18.551221",
+      "level": "warning",
+      "message": "Demo alert #4"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 5,
+    "fields": {
+      "timestamp": "2025-06-08T08:52:18.551225",
+      "level": "info",
+      "message": "Demo alert #5"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 6,
+    "fields": {
+      "timestamp": "2025-06-08T07:52:18.551230",
+      "level": "info",
+      "message": "Demo alert #6"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 7,
+    "fields": {
+      "timestamp": "2025-06-08T06:52:18.551234",
+      "level": "warning",
+      "message": "Demo alert #7"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 8,
+    "fields": {
+      "timestamp": "2025-06-08T05:52:18.551239",
+      "level": "info",
+      "message": "Demo alert #8"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 9,
+    "fields": {
+      "timestamp": "2025-06-08T04:52:18.551245",
+      "level": "info",
+      "message": "Demo alert #9"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 10,
+    "fields": {
+      "timestamp": "2025-06-08T03:52:18.551250",
+      "level": "critical",
+      "message": "Demo alert #10"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 11,
+    "fields": {
+      "timestamp": "2025-06-08T02:52:18.551254",
+      "level": "info",
+      "message": "Demo alert #11"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 12,
+    "fields": {
+      "timestamp": "2025-06-08T01:52:18.551258",
+      "level": "critical",
+      "message": "Demo alert #12"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 13,
+    "fields": {
+      "timestamp": "2025-06-08T00:52:18.551262",
+      "level": "info",
+      "message": "Demo alert #13"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 14,
+    "fields": {
+      "timestamp": "2025-06-07T23:52:18.551267",
+      "level": "critical",
+      "message": "Demo alert #14"
+    }
+  },
+  {
+    "model": "dashboard.alertlog",
+    "pk": 15,
+    "fields": {
+      "timestamp": "2025-06-07T22:52:18.551271",
+      "level": "critical",
+      "message": "Demo alert #15"
+    }
+  },
+  {
+    "model": "dashboard.report",
+    "pk": 1,
+    "fields": {
+      "generated_at": "2025-06-08T12:52:18.551325",
+      "title": "Ежедневный отчёт по KPI",
+      "file": "reports/sample_report.docx"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 31,
+    "fields": {
+      "created_at": "2025-06-05T12:56:56.350508",
+      "client": "ООО МебельСтиль",
+      "description": "Заказ №31 — корпусная мебель",
+      "status": "ready"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 32,
+    "fields": {
+      "created_at": "2025-06-07T12:56:56.350552",
+      "client": "ООО МебельСтиль",
+      "description": "Заказ №32 — корпусная мебель",
+      "status": "shipped"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 33,
+    "fields": {
+      "created_at": "2025-06-04T12:56:56.350562",
+      "client": "Петров и Ко",
+      "description": "Заказ №33 — корпусная мебель",
+      "status": "new"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 34,
+    "fields": {
+      "created_at": "2025-06-08T12:56:56.350570",
+      "client": "ООО Тренд",
+      "description": "Заказ №34 — корпусная мебель",
+      "status": "production"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 35,
+    "fields": {
+      "created_at": "2025-06-04T12:56:56.350579",
+      "client": "ИП Иванов",
+      "description": "Заказ №35 — корпусная мебель",
+      "status": "design"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 36,
+    "fields": {
+      "created_at": "2025-06-05T12:56:56.350600",
+      "client": "ООО Тренд",
+      "description": "Заказ №36 — корпусная мебель",
+      "status": "ready"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 37,
+    "fields": {
+      "created_at": "2025-06-05T12:56:56.350608",
+      "client": "ООО Тренд",
+      "description": "Заказ №37 — корпусная мебель",
+      "status": "new"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 38,
+    "fields": {
+      "created_at": "2025-06-06T12:56:56.350618",
+      "client": "Петров и Ко",
+      "description": "Заказ №38 — корпусная мебель",
+      "status": "ready"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 39,
+    "fields": {
+      "created_at": "2025-06-06T12:56:56.350640",
+      "client": "ООО МебельСтиль",
+      "description": "Заказ №39 — корпусная мебель",
+      "status": "ready"
+    }
+  },
+  {
+    "model": "dashboard.orderqueue",
+    "pk": 40,
+    "fields": {
+      "created_at": "2025-06-08T12:56:56.350649",
+      "client": "ИП Иванов",
+      "description": "Заказ №40 — корпусная мебель",
+      "status": "ready"
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 41,
+    "fields": {
+      "timestamp": "2025-06-08T12:56:56.350941",
+      "metric": "OEE",
+      "value": 74.86
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 42,
+    "fields": {
+      "timestamp": "2025-06-08T12:56:56.350941",
+      "metric": "Throughput",
+      "value": 89.92
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 43,
+    "fields": {
+      "timestamp": "2025-06-07T12:56:56.350967",
+      "metric": "OEE",
+      "value": 89.25
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 44,
+    "fields": {
+      "timestamp": "2025-06-07T12:56:56.350967",
+      "metric": "Throughput",
+      "value": 134.13
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 45,
+    "fields": {
+      "timestamp": "2025-06-06T12:56:56.350982",
+      "metric": "OEE",
+      "value": 86.41
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 46,
+    "fields": {
+      "timestamp": "2025-06-06T12:56:56.350982",
+      "metric": "Throughput",
+      "value": 137.54
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 47,
+    "fields": {
+      "timestamp": "2025-06-05T12:56:56.350999",
+      "metric": "OEE",
+      "value": 72.96
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 48,
+    "fields": {
+      "timestamp": "2025-06-05T12:56:56.350999",
+      "metric": "Throughput",
+      "value": 113.36
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 49,
+    "fields": {
+      "timestamp": "2025-06-04T12:56:56.351026",
+      "metric": "OEE",
+      "value": 72.7
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 50,
+    "fields": {
+      "timestamp": "2025-06-04T12:56:56.351026",
+      "metric": "Throughput",
+      "value": 135.48
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 51,
+    "fields": {
+      "timestamp": "2025-06-03T12:56:56.351040",
+      "metric": "OEE",
+      "value": 61.24
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 52,
+    "fields": {
+      "timestamp": "2025-06-03T12:56:56.351040",
+      "metric": "Throughput",
+      "value": 96.79
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 53,
+    "fields": {
+      "timestamp": "2025-06-02T12:56:56.351053",
+      "metric": "OEE",
+      "value": 80.78
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 54,
+    "fields": {
+      "timestamp": "2025-06-02T12:56:56.351053",
+      "metric": "Throughput",
+      "value": 81.73
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 55,
+    "fields": {
+      "timestamp": "2025-06-01T12:56:56.351065",
+      "metric": "OEE",
+      "value": 91.8
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 56,
+    "fields": {
+      "timestamp": "2025-06-01T12:56:56.351065",
+      "metric": "Throughput",
+      "value": 138.53
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 57,
+    "fields": {
+      "timestamp": "2025-05-31T12:56:56.351077",
+      "metric": "OEE",
+      "value": 91.06
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 58,
+    "fields": {
+      "timestamp": "2025-05-31T12:56:56.351077",
+      "metric": "Throughput",
+      "value": 125.0
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 59,
+    "fields": {
+      "timestamp": "2025-05-30T12:56:56.351090",
+      "metric": "OEE",
+      "value": 71.76
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 60,
+    "fields": {
+      "timestamp": "2025-05-30T12:56:56.351090",
+      "metric": "Throughput",
+      "value": 90.16
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 61,
+    "fields": {
+      "timestamp": "2025-05-29T12:56:56.351104",
+      "metric": "OEE",
+      "value": 62.47
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 62,
+    "fields": {
+      "timestamp": "2025-05-29T12:56:56.351104",
+      "metric": "Throughput",
+      "value": 84.46
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 63,
+    "fields": {
+      "timestamp": "2025-05-28T12:56:56.351116",
+      "metric": "OEE",
+      "value": 88.85
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 64,
+    "fields": {
+      "timestamp": "2025-05-28T12:56:56.351116",
+      "metric": "Throughput",
+      "value": 139.37
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 65,
+    "fields": {
+      "timestamp": "2025-05-27T12:56:56.351130",
+      "metric": "OEE",
+      "value": 70.3
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 66,
+    "fields": {
+      "timestamp": "2025-05-27T12:56:56.351130",
+      "metric": "Throughput",
+      "value": 130.15
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 67,
+    "fields": {
+      "timestamp": "2025-05-26T12:56:56.352370",
+      "metric": "OEE",
+      "value": 82.05
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 68,
+    "fields": {
+      "timestamp": "2025-05-26T12:56:56.352370",
+      "metric": "Throughput",
+      "value": 104.18
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 69,
+    "fields": {
+      "timestamp": "2025-05-25T12:56:56.352398",
+      "metric": "OEE",
+      "value": 69.65
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 70,
+    "fields": {
+      "timestamp": "2025-05-25T12:56:56.352398",
+      "metric": "Throughput",
+      "value": 117.04
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 71,
+    "fields": {
+      "timestamp": "2025-05-24T12:56:56.352406",
+      "metric": "OEE",
+      "value": 83.25
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 72,
+    "fields": {
+      "timestamp": "2025-05-24T12:56:56.352406",
+      "metric": "Throughput",
+      "value": 120.3
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 73,
+    "fields": {
+      "timestamp": "2025-05-23T12:56:56.352414",
+      "metric": "OEE",
+      "value": 72.91
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 74,
+    "fields": {
+      "timestamp": "2025-05-23T12:56:56.352414",
+      "metric": "Throughput",
+      "value": 109.89
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 75,
+    "fields": {
+      "timestamp": "2025-05-22T12:56:56.352421",
+      "metric": "OEE",
+      "value": 84.41
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 76,
+    "fields": {
+      "timestamp": "2025-05-22T12:56:56.352421",
+      "metric": "Throughput",
+      "value": 93.64
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 77,
+    "fields": {
+      "timestamp": "2025-05-21T12:56:56.352427",
+      "metric": "OEE",
+      "value": 60.65
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 78,
+    "fields": {
+      "timestamp": "2025-05-21T12:56:56.352427",
+      "metric": "Throughput",
+      "value": 129.86
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 79,
+    "fields": {
+      "timestamp": "2025-05-20T12:56:56.352434",
+      "metric": "OEE",
+      "value": 89.67
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 80,
+    "fields": {
+      "timestamp": "2025-05-20T12:56:56.352434",
+      "metric": "Throughput",
+      "value": 129.08
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 81,
+    "fields": {
+      "timestamp": "2025-05-19T12:56:56.352442",
+      "metric": "OEE",
+      "value": 81.48
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 82,
+    "fields": {
+      "timestamp": "2025-05-19T12:56:56.352442",
+      "metric": "Throughput",
+      "value": 142.05
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 83,
+    "fields": {
+      "timestamp": "2025-05-18T12:56:56.352449",
+      "metric": "OEE",
+      "value": 63.65
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 84,
+    "fields": {
+      "timestamp": "2025-05-18T12:56:56.352449",
+      "metric": "Throughput",
+      "value": 86.44
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 85,
+    "fields": {
+      "timestamp": "2025-05-17T12:56:56.352455",
+      "metric": "OEE",
+      "value": 84.14
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 86,
+    "fields": {
+      "timestamp": "2025-05-17T12:56:56.352455",
+      "metric": "Throughput",
+      "value": 106.44
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 87,
+    "fields": {
+      "timestamp": "2025-05-16T12:56:56.352480",
+      "metric": "OEE",
+      "value": 67.53
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 88,
+    "fields": {
+      "timestamp": "2025-05-16T12:56:56.352480",
+      "metric": "Throughput",
+      "value": 102.56
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 89,
+    "fields": {
+      "timestamp": "2025-05-15T12:56:56.352492",
+      "metric": "OEE",
+      "value": 94.51
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 90,
+    "fields": {
+      "timestamp": "2025-05-15T12:56:56.352492",
+      "metric": "Throughput",
+      "value": 114.61
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 91,
+    "fields": {
+      "timestamp": "2025-05-14T12:56:56.352510",
+      "metric": "OEE",
+      "value": 74.1
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 92,
+    "fields": {
+      "timestamp": "2025-05-14T12:56:56.352510",
+      "metric": "Throughput",
+      "value": 145.07
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 93,
+    "fields": {
+      "timestamp": "2025-05-13T12:56:56.352517",
+      "metric": "OEE",
+      "value": 92.55
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 94,
+    "fields": {
+      "timestamp": "2025-05-13T12:56:56.352517",
+      "metric": "Throughput",
+      "value": 116.45
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 95,
+    "fields": {
+      "timestamp": "2025-05-12T12:56:56.352524",
+      "metric": "OEE",
+      "value": 87.31
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 96,
+    "fields": {
+      "timestamp": "2025-05-12T12:56:56.352524",
+      "metric": "Throughput",
+      "value": 80.27
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 97,
+    "fields": {
+      "timestamp": "2025-05-11T12:56:56.352531",
+      "metric": "OEE",
+      "value": 64.55
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 98,
+    "fields": {
+      "timestamp": "2025-05-11T12:56:56.352531",
+      "metric": "Throughput",
+      "value": 109.44
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 99,
+    "fields": {
+      "timestamp": "2025-05-10T12:56:56.352537",
+      "metric": "OEE",
+      "value": 75.09
+    }
+  },
+  {
+    "model": "dashboard.kpirecord",
+    "pk": 100,
+    "fields": {
+      "timestamp": "2025-05-10T12:56:56.352537",
+      "metric": "Throughput",
+      "value": 94.14
+    }
+  }
+]

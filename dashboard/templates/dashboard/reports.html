@@ -1,0 +1,17 @@
+
+{% extends 'dashboard/layout.html' %}
+{% block title %}Отчёты{% endblock %}
+{% block crumb %}<li class="breadcrumb-item active">Отчёты</li>{% endblock %}
+{% block content %}
+<h2>Сгенерированные отчёты</h2>
+<ul class="list-group">
+  {% for r in reports %}
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+      <span>{{ r.title }}</span>
+      <a class="btn btn-outline-primary btn-sm" href="{{ r.file.url }}">Скачать</a>
+    </li>
+  {% empty %}
+    <li class="list-group-item">Отчётов нет</li>
+  {% endfor %}
+</ul>
+{% endblock %}

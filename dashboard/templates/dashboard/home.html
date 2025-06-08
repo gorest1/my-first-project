@@ -1,0 +1,28 @@
+
+{% extends 'dashboard/layout.html' %}
+{% block title %}Главная | Bazis Monitoring{% endblock %}
+{% block crumb %}<li class="breadcrumb-item active" aria-current="page">Главная</li>{% endblock %}
+{% block content %}
+<h1>Централизованный мониторинг производства</h1>
+<p class="lead">Дашборд в реальном времени отображает очередь заказов и ключевые показатели эффективности производственного цикла мебельной фабрики.</p>
+<div class="row">
+  <div class="col-md-6">
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title">Очередь заказов</h5>
+        <p class="card-text">Контроль статуса от конфигурирования до отгрузки.</p>
+        <a href="{% url 'dashboard:queue' %}" class="btn btn-primary">Перейти</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title">Панель KPI</h5>
+        <p class="card-text">Анализ ключевых производственных метрик.</p>
+        <a href="{% url 'dashboard:kpi' %}" class="btn btn-primary">Перейти</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
