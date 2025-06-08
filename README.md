@@ -27,4 +27,4 @@ Full documentation is in `/docs`.
 * **/alerts/** — журнал инцидентов  
 * **/reports/** — список отчётов (.docx, .xlsx и др.)
 
-Демо‑данные для этих разделов входят в `sample_data.json`.
+данные для этих разделов входят в `sample_data.json`.
